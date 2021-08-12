@@ -1,0 +1,24 @@
+{
+  "name": "email-templates",
+  "version": "0.0.0",
+  "description": "HTML templates for Tech Lingo emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechLingo/email-templates.git"
+  },
+  "keywords": [],
+  "author": "Kyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechLingo/email-templates/issues"
+  },
+  "homepage": "https://github.com/TechLingo/email-templates#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

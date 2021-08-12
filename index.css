@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.preview {
+  border: 0.5rem solid black;
+}
+
+.preview:before {
+  content: "Dear Lorem, \A\A Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu lectus sed arcu tincidunt ullamcorper ullamcorper sit amet nisl. Morbi vitae libero molestie mi accumsan pulvinar sit amet nec tellus. Sed sit amet accumsan nibh. Sed eu volutpat nunc, eget mattis diam. \A\A Phasellus fringilla, turpis a imperdiet sodales, risus erat maximus nisl, sit amet malesuada purus augue nec nunc.";
+  white-space: pre-wrap;
+  display: block;
+  margin-bottom: 1rem;
+}
